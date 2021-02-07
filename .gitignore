@@ -130,3 +130,6 @@ dmypy.json
 
 # Windows
 .DS_Store
+
+# datas
+/datas
